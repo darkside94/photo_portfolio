@@ -15,9 +15,6 @@ function App() {
         width: "100%",
         overflowX: "hidden",
         fontFamily: "Zalando Sans SemiExpanded"
-  // font-optical-sizing: auto,
-  // font-weight: <weight>,
-  // font-style: normal;
       }}>
       <div className="topBar" style={{
         display: "flex",
